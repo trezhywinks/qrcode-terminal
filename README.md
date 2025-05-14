@@ -17,7 +17,9 @@ console.log(qrcode);
 sudo apt update
 ```
 ```
-git clone https://github.com/trezhywinks/qrcode-terminal.git && npm install .
+$ git clone https://github.com/trezhywinks/qrcode-terminal.git
+$ cd qrcode-terminal
+$ npm install .
 ```
 
 ## Screenshot
